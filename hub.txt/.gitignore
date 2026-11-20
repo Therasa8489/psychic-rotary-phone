@@ -1,0 +1,8 @@
+__pycache__/
+*.pt
+*.db
+outputs/
+evidence_store/
+node_modules/
+.env
+dataset/*.mp4
